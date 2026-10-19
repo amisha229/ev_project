@@ -1,0 +1,7 @@
+# Python 3.10+
+pandas>=2.0.0
+numpy>=1.24.0
+river>=0.22.0
+streamlit>=1.28.0
+plotly>=5.18.0
+streamlit-autorefresh>=1.0.1

@@ -1,0 +1,21 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Dynamic runtime storage & logs generated during execution
+storage/live_data.csv
+storage/runtime_state.json
+storage/runtime_config.json
+*.log
+control_debug*
+
+# OS specific files
+.DS_Store
+Thumbs.db
